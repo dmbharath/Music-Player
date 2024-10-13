@@ -53,6 +53,7 @@ public class Main
                 case 0:
                 System.out.println("Playlist completed");
                 quit = true;
+                break;
                 case 1:
                 if(!forward)
                 {
