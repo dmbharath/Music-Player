@@ -119,7 +119,6 @@ public class Main
                 }
                 break;
                 case 4:
-                
                     printList(playList);
                     break;
                 case 5:
